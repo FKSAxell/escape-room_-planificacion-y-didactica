@@ -5,7 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
-    base: './',
+    base: '/escape-room_-planificacion-y-didactica/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
