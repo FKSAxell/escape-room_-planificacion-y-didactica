@@ -1,0 +1,8 @@
+{
+  "name": "Escape Room: Planificación y Didáctica",
+  "description": "Escape Room Digital para la contextualización de la Educación Superior en Ecuador, diseñado para posgrado.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
